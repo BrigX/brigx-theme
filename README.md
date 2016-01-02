@@ -1,12 +1,12 @@
-# brigx-theme
+# BrigX Wordpress theme
 
-The essential files for the custom Wordpress theme of our website (http://brigx.it), based on the free Wordpress theme "Edin" (https://theme.wordpress.com/themes/edin/) by Automattic.
+This repository contains the essential files for the custom Wordpress theme of our website (http://brigx.it), based on the free Wordpress theme "Edin" (https://theme.wordpress.com/themes/edin/) by Automattic.
 
 ## Installation
 
-As this is a child theme, in order to use it you must first install Edin.
+As this is a child theme, in order to use it you must first install the parent theme, Edin.
 
-After both themes are in your "themes" directory, you can activate this one.
+After both of them are in your "themes" directory, you can activate this one.
 
 ## Localization
 
