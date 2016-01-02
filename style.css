@@ -1,0 +1,46 @@
+/*
+Theme Name:     BrigX
+Description:    A theme for the BrigX Linux USers Group website, adapted from Edin theme
+Author:         Andrea Mangiatordi
+Template:       edin
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.site-title{
+  text-transform: none;
+}
+
+.tickera_table .last-table-row {
+  display: none;
+}
+
+.add_to_cart{
+  padding: 12px 24px;
+  background: #1279BE none repeat scroll 0% 0%;
+  border: 2px solid #1279BE;
+  color: #FFF;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.2s linear 0s;
+}
+
+.add_to_cart:hover{
+  background: #000;
+  border: 2px solid #000;
+  color:#fff;
+}
+
+.tc_event_date_title_front{
+  font-size: 32px;
+}
+
+.entry-meta{
+  display: none;
+}
+
+
+body:not(.no-image-filter) .hero.with-featured-image::before{
+  opacity: 0.6;
+}
